@@ -78,7 +78,11 @@ b.light-color{ color: #444; }
 	box-sizing: inherit;} 
 
 /* To change the color for the body text */
-#MainText { color: white;}
+#MainText { 
+	color: white;
+	opacity: 0.0;
+	
+}
 
 	
 /* ---------------------------------
